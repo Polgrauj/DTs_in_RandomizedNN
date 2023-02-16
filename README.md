@@ -1,7 +1,6 @@
-All the materials available in this document are to reproduce the results published in the following paper:
+All the materials available in this document are to reproduce the results published in the following article:
 
-> P. Grau Jurado, X. Liang, S. Chatterjee, 
-> "Deterministic Transform Based Weight Matrices for Neural Networks",
+> P. G. Jurado, X. Liang and S. Chatterjee, "Deterministic Transform Based Weight Matrices for Neural Networks," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 4528-4532, doi: 10.1109/ICASSP43922.2022.9747256.
 
 The code permits to build four different neural network architectures (ELM, RVFL, dRVFL and SSFN).
 The code is organized as follows:
